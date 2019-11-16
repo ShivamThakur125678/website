@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+}
+h2{
+font-family: 'Yeon Sung', cursive;
+font-size: 50px;
+margin: 0;
+letter-spacing: 14px;
+
+} 
+h5, p {
+	text-align: justify;
+	font-family: 'Nunito', sans-serif;
+}
+#a
+  {
+	  padding-left: 220px;
+	  padding-right: 220px;
+  }
+#a1
+{
+text-align: right;
+}
+#a1 a {
+	text-decoration: none;
+	font-weight: 900;
+	color: #000;
+	font-size: 25px;
+}
+#a1 a:hover {
+	color: red;
+		box-shadow: 5px 5px 5px #000;
+
+}
+
+#a2
+{
+	 width: 50%;
+  height:120%
+margin-top: 10px;
+		float: left;
+				box-shadow: 5px 5px 5px #000;
+
+
+}
+
+
+	#a2 img {
+		width: 100%;
+	        }
+
+
+	#a3{
+		margin-left: 20px;
+		width:45%;
+		/*text-align: right;*/
+		float: left;
+		font-size:30px;
+	   }
+	   body{
+	   	background-color: #edf0f5
+	   }

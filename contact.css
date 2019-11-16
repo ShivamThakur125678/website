@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #16161d;
+}
+div {
+	height: 88vh;
+	padding: 50px;
+	background-image: url('C:\\Users\\Shivam Thakur\\Desktop\\website\\photo-1565084794475-e6c78c0d8574.jfif');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: sans-serif;
+}
